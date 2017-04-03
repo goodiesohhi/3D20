@@ -1,4 +1,5 @@
-main.o: c:/3D20/3D20/source/main.c c:/devkitPro/libctru/include/3ds.h \
+main.o: c:/3D20/3D20_opensource/source/main.c \
+ c:/devkitPro/libctru/include/3ds.h \
  c:/devkitPro/libctru/include/3ds/types.h \
  c:/devkitPro/libctru/include/3ds/result.h \
  c:/devkitPro/libctru/include/3ds/ipc.h \
@@ -65,7 +66,23 @@ main.o: c:/3D20/3D20/source/main.c c:/devkitPro/libctru/include/3ds.h \
  c:/devkitPro/libctru/include/3ds/applets/swkbd.h \
  c:/devkitPro/libctru/include/3ds/sdmc.h \
  c:/devkitPro/libctru/include/3ds/romfs.h \
- c:/devkitPro/libctru/include/3ds/font.h
+ c:/devkitPro/libctru/include/3ds/font.h \
+ c:/devkitPro/libctru/include/sf2d.h \
+ c:/devkitPro/libctru/include/citro3d.h \
+ c:/devkitPro/libctru/include/c3d/types.h \
+ c:/devkitPro/libctru/include/c3d/maths.h \
+ c:/devkitPro/libctru/include/c3d/mtxstack.h \
+ c:/devkitPro/libctru/include/c3d/uniforms.h \
+ c:/devkitPro/libctru/include/c3d/attribs.h \
+ c:/devkitPro/libctru/include/c3d/buffers.h \
+ c:/devkitPro/libctru/include/c3d/base.h \
+ c:/devkitPro/libctru/include/c3d/texenv.h \
+ c:/devkitPro/libctru/include/c3d/effect.h \
+ c:/devkitPro/libctru/include/c3d/texture.h \
+ c:/devkitPro/libctru/include/c3d/light.h \
+ c:/devkitPro/libctru/include/c3d/lightlut.h \
+ c:/devkitPro/libctru/include/c3d/renderbuffer.h \
+ c:/devkitPro/libctru/include/c3d/renderqueue.h
 
 c:/devkitPro/libctru/include/3ds.h:
 
@@ -202,3 +219,35 @@ c:/devkitPro/libctru/include/3ds/sdmc.h:
 c:/devkitPro/libctru/include/3ds/romfs.h:
 
 c:/devkitPro/libctru/include/3ds/font.h:
+
+c:/devkitPro/libctru/include/sf2d.h:
+
+c:/devkitPro/libctru/include/citro3d.h:
+
+c:/devkitPro/libctru/include/c3d/types.h:
+
+c:/devkitPro/libctru/include/c3d/maths.h:
+
+c:/devkitPro/libctru/include/c3d/mtxstack.h:
+
+c:/devkitPro/libctru/include/c3d/uniforms.h:
+
+c:/devkitPro/libctru/include/c3d/attribs.h:
+
+c:/devkitPro/libctru/include/c3d/buffers.h:
+
+c:/devkitPro/libctru/include/c3d/base.h:
+
+c:/devkitPro/libctru/include/c3d/texenv.h:
+
+c:/devkitPro/libctru/include/c3d/effect.h:
+
+c:/devkitPro/libctru/include/c3d/texture.h:
+
+c:/devkitPro/libctru/include/c3d/light.h:
+
+c:/devkitPro/libctru/include/c3d/lightlut.h:
+
+c:/devkitPro/libctru/include/c3d/renderbuffer.h:
+
+c:/devkitPro/libctru/include/c3d/renderqueue.h:
